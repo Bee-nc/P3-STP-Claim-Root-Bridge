@@ -1,11 +1,6 @@
 
----
-
-## 🔹 README.md para P3 (STP Claim Root Bridge)
-
-```markdown
 # Práctica P3 - STP Claim Root Bridge
-**Autor:** Viensy  
+Viensy Pérez  
 **Matrícula:** 20241203  
 
 ## Descripción
