@@ -4,7 +4,8 @@ Viensy Pérez
 **Matrícula:** 20241203  
 
 ## Descripción
-Repositorio individual para la práctica P3: ataque STP Claim Root Bridge en la asignatura Seguridad de Redes.
+Repositorio individual para la práctica P3: ataque STP Claim Root Bridge en la asignatura Seguridad de Redes.  
+El ataque envía BPDUs falsos para reclamar ser el root bridge en la red, forzando al switch a cambiar su topología y permitiendo al atacante manipular el flujo de tráfico.
 
 ## Archivos incluidos
 - `Viensy_20241203_STP_P3.py` → Script en Python para el ataque.
